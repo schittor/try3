@@ -1,7 +1,7 @@
 
 [yt_subtitles.py](yt_subtitles)
 
-![laptop image](mthood_orig_clipped.jpeg)
+![laptop image](github.com/schittor/try3/mthood_orig_clipped.jpeg)
 
 
 ```markdown
